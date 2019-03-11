@@ -3,4 +3,3 @@ This is a feed forward neural network programmed from scratch in python, designe
 This project was to understand how feed forward and other neural networks perform in a mathematical environment instead of the conventional libraries for example tensorflow and pytorch. 
 
 # How it works?
-
